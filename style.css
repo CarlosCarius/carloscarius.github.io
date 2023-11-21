@@ -1,0 +1,53 @@
+/* Estilos para a página */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image:url('storage/emulated/0/Download/images (1).jpeg') /* Substitua pelo caminho da sua imagem */
+    background-size: cover; /* Para garantir que a imagem cubra todo o fundo */
+}
+
+header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+/* Estilos específicos para a seção Sobre Mim */
+#about {
+    background-color: #e6f7ff;
+}
+
+/* Estilos específicos para a seção Serviços Oferecidos */
+#services {
+    background-color: #ffe6e6;
+}
+
+/* Estilos específicos para a seção Preços e Pacotes */
+#pricing {
+    background-color: #e6ffe6;
+}
+
+/* Estilos específicos para a seção Depoimentos de Alunos */
+#testimonials {
+    background-color: #fff2e6;
+}
+
+/* Estilos específicos para a seção Contato */
+#contact {
+    background-color: #f2f2f2;
+}
+
+/* Estilos específicos para a seção Galeria de Fotos/Vídeos */
+#gallery {
+    /* Mantenha ou remova esta parte, dependendo se deseja a imagem de fundo específica na galeria */
+}
+
+/* Adicione mais estilos conforme necessário */
